@@ -1,0 +1,12 @@
+{
+  "name": "A Car New Tab",
+  "manifest_version": 2,
+  "version": "0.9.1",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "description": "A simple new tab page that can be customized.",
+  "permissions":[
+    "history"
+    ]
+}
